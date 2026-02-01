@@ -29,15 +29,6 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 20px;
-<<<<<<< HEAD
-=======
-}
-
-.left-links,
-.right-links {
-  display: flex;
-  justify-content: flex-start;
->>>>>>> c5fb781e5509e5fde9b9ce89a362457674d5477d
 }
 
 a {
